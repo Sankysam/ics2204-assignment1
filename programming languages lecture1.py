@@ -1,4 +1,6 @@
-sadef greet_and_add():
+#Sandra Wendy Katheu Kyavoa
+#SCT211-0047/20022
+def greet_and_add():
     # Ask for the user's name
     name = input("Please enter your name: ")
     print(f"Hello, {name}!")
